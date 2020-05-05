@@ -190,6 +190,10 @@ body {font-family: 'Roboto', sans-serif;
 	margin-bottom: 24px;
 }
 
+.restaurant-link {
+	text-decoration: none;
+}
+
 .card-buttons {
 	display: flex;
 	align-items: center;
